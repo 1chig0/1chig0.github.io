@@ -56,8 +56,8 @@ Yixiong Wu, Jianwei Zhuge, Tingting Yin, Tianyi Li, <b>Junmin Zhu</b>, Guannan G
 # Selected CTF Awards
 
 * Aug 2022 - Qiangwang Cup 2022 Champion, 0ops.
-* May 2022 - DEFCON CTF 2022 Second Place, Kazebin.
+* May 2022 - DEFCON CTF 2022 Second Place, Katzebin.
 * Dec 2021 - ByteCTF First Place, 0ops.
 * Jun 2021 - XCTF Final Second Place, 0ops. 
-* May 2021 - DEFCON CTF 2021 Champion, Kazebin.
+* May 2021 - DEFCON CTF 2021 Champion, Katzebin.
 * Nov 2020 - X-NUCA CTF 2020 First Prize, 0ops. 
