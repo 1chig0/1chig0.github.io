@@ -33,7 +33,7 @@ Before coming to Purdue, I received my master's degree at School of Cyber Scienc
   
 * Oct 2019 - Jan 2020: Security Service Engineer Intern, Chaitin Tech
   * Chatin Tech
-  * Perform penetration testing on the client company and provide support for attack and defense exer- cises.
+  * Perform penetration testing on the client company and provide support for attack and defense exercises.
 
 
 # Publications
