@@ -12,20 +12,20 @@ I am a visiting scholar of Computer Science at Purdue University, advised by Pro
 
 Before coming to Purdue, I received my master's degree at School of Cyber Science and Engineering at Shanghai Jiao Tong University. I was a member of NSSL. Additionally, I participated in CTFs as a member of 0ops and Katzebin.
 
-<p style="color: #FF0000;">I'm looking for a PhD position in 24 Fall.</p>
+<p><div style="color: #FF0000;"> I am currently looking for a PhD position in 24 Fall. </div>If you have any available positions, please contact me at junmin.zhu@sjtu.edu.cn.</p>
 
 # Education
 
 * B.S. in Information Security, Northeastern University, Shenyang, 2020
-* M.S. in Cyberspace Security Shanghai JiaoTong University, Shanghai, 2023, advised by Libo Chen.
+* M.S. in Cyberspace Security, Shanghai JiaoTong University, Shanghai, 2023, advised by Libo Chen.
 
 # Experience
 
 * Sep 2023 - Present, Research Scholar, Purdue University
-  * Advisors: Prof. Xiangyu Zhang
+  * Advisor: Prof. Xiangyu Zhang
 
 * May 2022 - Jul 2022, Summer Intern, Johns Hopkins University (Remote)
-  * Advisors: Prof. Yinzhi Cao
+  * Advisor: Prof. Yinzhi Cao
   * JavaScript program analysis and browser plugin security issues.
 
 * Sep 2021 - May 2022:  Security Researcher Intern, Qi An Xin Technology Research Institute
