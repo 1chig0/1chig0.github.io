@@ -38,10 +38,13 @@ Before coming to Purdue, I received my master's degree at School of Cyber Scienc
 
 # Publications
 
+* Vulnerability-oriented Testing for RESTful APIs<br>
+Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhengguang Han, Yijun Wang, Zhi Xue
+<i>Usenix Security 2024</i>
+
 * CoCo: Efficient Browser Extension Vulnerability Detection via Coverage-guided, Concurrent Abstract Interpretation<br>
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
 <i>CCS 2023</i>.
-
 
 * SAWD: Structural-Aware Webshell Detection System with Control Flow Graph. <br>
 <b>Junmin Zhu</b>, Yizhao Yao, Xianwen Deng, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
