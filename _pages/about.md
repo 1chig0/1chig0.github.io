@@ -16,8 +16,8 @@ Before coming to Purdue, I received my master's degree at School of Cyber Scienc
 
 # Education
 
-* B.S. in Information Security, Northeastern University, Shenyang, 2020
 * M.S. in Cyberspace Security, Shanghai JiaoTong University, Shanghai, 2023, advised by Libo Chen.
+* B.S. in Information Security, Northeastern University, Shenyang, 2020
 
 # Experience
 
@@ -46,11 +46,11 @@ Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhe
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
 <i>CCS 2023</i>.
 
-* SAWD: Structural-Aware Webshell Detection System with Control Flow Graph. <br>
+* SAWD: Structural-Aware Webshell Detection System with Control Flow Graph<br>
 <b>Junmin Zhu</b>, Yizhao Yao, Xianwen Deng, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
 <i>SEKE 2023</i>.
 
-* From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age. <br>
+* From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age<br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, Tianyi Li, <b>Junmin Zhu</b>, Guannan Guo, Yue Liu, Jianju Hu<br>
 <i>ICISSP 2021</i>.
 
