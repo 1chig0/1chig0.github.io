@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a visiting scholar of Computer Science at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on Web Security, and I am keen on delving into Web3 Security in the future.
+I am a visiting scholar in the Computer Science department at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on Web Security, and I am keen on delving into Web3 Security in the future.
 
 Before coming to Purdue, I received my master's degree at School of Cyber Science and Engineering at Shanghai Jiao Tong University. I was a member of NSSL. Additionally, I participated in CTFs as a member of 0ops and Katzebin.
 
@@ -26,20 +26,20 @@ Before coming to Purdue, I received my master's degree at School of Cyber Scienc
 
 * May 2022 - Jul 2022, Summer Intern, Johns Hopkins University (Remote)
   * Advisor: Prof. Yinzhi Cao
-  * JavaScript program analysis and browser plugin security issues.
+  * JavaScript program analysis and browser plugin security issues verification.
 
 * Sep 2021 - May 2022:  Security Researcher Intern, Qi An Xin Technology Research Institute
-  * Protocol(SIP) security research.
+  * SIP Protocol security research.
   
 * Oct 2019 - Jan 2020: Security Service Engineer Intern, Chaitin Tech
   * Chatin Tech
-  * Perform penetration testing on the client company and provide support for attack and defense exercises.
+  * Perform penetration testing on the client company and provide support for attack and defense drills.
 
 
 # Publications
 
 * Vulnerability-oriented Testing for RESTful APIs<br>
-Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhengguang Han, Yijun Wang, Zhi Xue
+Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhengguang Han, Yijun Wang, Zhi Xue<br>
 <i>Usenix Security 2024</i>
 
 * CoCo: Efficient Browser Extension Vulnerability Detection via Coverage-guided, Concurrent Abstract Interpretation<br>
