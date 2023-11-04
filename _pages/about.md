@@ -47,7 +47,7 @@ Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
 <i>CCS 2023</i>.
 
 * SAWD: Structural-Aware Webshell Detection System with Control Flow Graph<br>
-<b>Junmin Zhu</b>, Yizhao Yao, Xianwen Deng, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
+<b>Junmin Zhu</b>*, Yizhao Yao*, Xianwen Deng*, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
 <i>SEKE 2023</i>.
 
 * From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age<br>
