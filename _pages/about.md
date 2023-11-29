@@ -40,7 +40,7 @@ Before coming to Purdue, I received my master's degree at School of Cyber Scienc
 
 * Vulnerability-oriented Testing for RESTful APIs<br>
 Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhengguang Han, Yijun Wang, Zhi Xue<br>
-<i>Usenix Security 2024</i>
+<i>USENIX Security 2024</i>
 
 * CoCo: Efficient Browser Extension Vulnerability Detection via Coverage-guided, Concurrent Abstract Interpretation<br>
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
