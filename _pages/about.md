@@ -44,7 +44,7 @@ Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhe
 
 * CoCo: Efficient Browser Extension Vulnerability Detection via Coverage-guided, Concurrent Abstract Interpretation<br>
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
-<i>CCS 2023</i>. <p> <i><div style="color: #FF0000;">Distinguish Paper Award</div></i></p>
+<i>CCS 2023 <b>Distinguish Paper Award</b></i>. 
 
 * SAWD: Structural-Aware Webshell Detection System with Control Flow Graph<br>
 <b>Junmin Zhu</b>\*, Yizhao Yao\*, Xianwen Deng\*, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
