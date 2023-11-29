@@ -12,12 +12,12 @@ I am a visiting scholar in the Computer Science department at Purdue University,
 
 Before coming to Purdue, I received my master's degree at School of Cyber Science and Engineering at Shanghai Jiao Tong University. I was a member of NSSL. Additionally, I participated in CTFs as a member of 0ops and Katzebin.
 
-<p><div style="color: #FF0000;"> I am currently looking for a PhD position in 24 Fall. </div>If you have any available positions, please contact me at junmin.zhu@sjtu.edu.cn.</p>
+<p><div style="color: #FF0000;"> I am currently looking for a PhD position in 24 Fall. </div></p>
 
 # Education
 
 * M.S. in Cyberspace Security, Shanghai JiaoTong University, Shanghai, 2023, advised by Kaiyue Qi and Libo Chen.
-* B.S. in Information Security, Northeastern University, Shenyang, 2020
+* B.E. in Information Security, Northeastern University, Shenyang, 2020
 
 # Experience
 
@@ -44,7 +44,7 @@ Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhe
 
 * CoCo: Efficient Browser Extension Vulnerability Detection via Coverage-guided, Concurrent Abstract Interpretation<br>
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
-<i>CCS 2023</i>.
+<i>CCS 2023</i>. <div style="color: #FF0000;">Distinguish Paper Award</div>
 
 * SAWD: Structural-Aware Webshell Detection System with Control Flow Graph<br>
 <b>Junmin Zhu</b>\*, Yizhao Yao\*, Xianwen Deng\*, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
