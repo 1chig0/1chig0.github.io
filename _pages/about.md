@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a visiting scholar in the Computer Science department at Purdue University, advised by Prof. Xiangyu Zhang. My research focuses on Web Security, and I am keen on delving into Web3 Security in the future.
-
-Before coming to Purdue, I received my master's degree at School of Cyber Science and Engineering at Shanghai Jiao Tong University. I was a member of NSSL. Additionally, I participated in CTFs as a member of 0ops and Katzebin.
-
-<p><div style="color: #FF0000;"> I am currently looking for a PhD position in 24 Fall. </div></p>
+I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, and I am keen on delving into Web3 Security in the future. Additionally, I participated in CTFs as a member of [Shellphish](https://shellphish.net/) or [0ops](https://0ops.sjtu.cn/). 
 
 # Education
-
-* M.S. in Cyberspace Security, Shanghai JiaoTong University, Shanghai, 2023, advised by Kaiyue Qi and Libo Chen.
-* B.E. in Information Security, Northeastern University, Shenyang, 2020
+* Ph.D. in Computer Science, University of California, Santa Barbara, USA, 2024 -
+* M.S. in Cyberspace Security, Shanghai JiaoTong University, Shanghai, CN, 2020 - 2023
+* B.E. in Information Security, Northeastern University, Shenyang, CN, 2016 - 2020
 
 # Experience
 
