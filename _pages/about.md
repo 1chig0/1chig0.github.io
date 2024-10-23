@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, and I am keen on delving into Web3 Security in the future. Additionally, I participated in CTFs as a member of [Shellphish](https://shellphish.net/) or [0ops](https://0ops.sjtu.cn/). 
+I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, and I am keen on delving into Web3 Security in the future. Additionally, I participated in CTFs as a member of [Shellphish](https://shellphish.net/) and [0ops](https://0ops.sjtu.cn/). 
 
 # Education
 * Ph.D. in Computer Science, University of California, Santa Barbara, USA, 2024 -
