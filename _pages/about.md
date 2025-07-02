@@ -33,10 +33,6 @@ Wenlong Du, Jian Li, Yanhao Wang, Libo Chen, Ruijie Zhao, <b>Junmin Zhu</b>, Zhe
 Jianjia Yu, Song Li, <b>Junmin Zhu</b>, and Yinzhi Cao<br>
 <i>CCS 2023 <b>Distinguished Paper Award</b></i>.
 
-* SAWD: Structural-Aware Webshell Detection System with Control Flow Graph<br>
-<b>Junmin Zhu</b>\*, Yizhao Yao\*, Xianwen Deng\*, Yaoguang Yong, Yanhao Wang, Libo Chen, Zhi Xue, Ruijie Zhao<br>
-<i>SEKE 2023</i>.
-
 * From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age<br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, Tianyi Li, <b>Junmin Zhu</b>, Guannan Guo, Yue Liu, Jianju Hu<br>
 <i>ICISSP 2021</i>.
