@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, and I am keen on delving into Web3 Security in the future. Additionally, I participated in CTFs as a member of [Shellphish](https://shellphish.net/) and [0ops](https://0ops.sjtu.cn/).
+I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, while I am currently working on how to use LLMs to improve the performance of static analysis and fuzzing. Additionally, I participate in CTFs as a member of [Shellphish](https://shellphish.net/) and [0ops](https://0ops.sjtu.cn/). I am also a part of the AIxCC team at Shellphish, where I built components that utilize LLMs to discover vulnerabilities.
 
 # Education
 * Ph.D. in Computer Science, University of California, Santa Barbara, USA, 2024 -
@@ -39,8 +39,9 @@ Yixiong Wu, Jianwei Zhuge, Tingting Yin, Tianyi Li, <b>Junmin Zhu</b>, Guannan G
 
 
 
-# Selected CTF Awards
+# Selected Awards
 
+* Aug 2025 - 5th Place in AIxCC Finals, Shellphish
 * Aug 2022 - Qiangwang Cup 2022 Champion, 0ops.
 * May 2022 - DEFCON CTF 2022 Second Place, Katzebin.
 * Dec 2021 - ByteCTF First Place, 0ops.
