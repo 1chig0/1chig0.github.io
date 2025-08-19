@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at [SecLab](https://seclab.cs.ucsb.edu/members/)@UCSB, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focuses on Web Security, while I am currently working on how to use LLMs to improve the performance of static analysis and fuzzing. Additionally, I participate in CTFs as a member of [Shellphish](https://shellphish.net/) and [0ops](https://0ops.sjtu.cn/). I am also a part of the AIxCC team at Shellphish, where I built components that utilize LLMs to discover vulnerabilities.
+I am a Ph.D. student at [SecLab](https://seclab.cs.ucsb.edu/members/), UC Santa Barbara, advised by [Prof. Giovanni Vigna](https://sites.cs.ucsb.edu/~vigna/) and [Prof. Christopher Kruegel](https://sites.cs.ucsb.edu/~chris/). My previous research focused on Web Security, and I am currently exploring how Large Language Models can enhance the performance of static analysis and fuzzing. Beyond academia, I participate in Capture the Flag competitions as a member of [Shellphish](https://shellphish.net/) and [0ops](https://0ops.sjtu.cn/). I am also part of Shellphish’s AIxCC team, where I contributed to building LLM-powered components for automated vulnerability discovery.
 
 # Education
 * Ph.D. in Computer Science, University of California, Santa Barbara, USA, 2024 -
